@@ -1,3 +1,10 @@
+# Pairing Project
+
+## The Plan
+
+This pairing lab does not have a designated place to switch drivers. Instead, every 30 minutes the pair's responsibilities should swap. The driver becomes the navigator, and vice versa.
+
+To minimize extra cloning and forking, this project should be completed in only one person's Github account.
 
 # Roman Numerals
 
@@ -37,5 +44,3 @@ In Roman numerals 1990 is MCMXC:
 * 8 = VIII
 
 See also: [Nova Roma](http://www.novaroma.org/via_romana/numbers.html)
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/roman-numerals' title='Roman Numerals'>Roman Numerals</a> on Learn.co and start learning to code for free.</p>
